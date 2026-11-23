@@ -9,6 +9,6 @@ Breve descripción de qué trata su juego o sistema (2 o 3 líneas).
 
 ## Integrantes
 | Nombre Completo | Usuario de GitHub |
-| :Mario Adrian Magallon Barajas--- | :Magallon25--- |
-| Tu Nombre | [TuUsuario](https://github.com/Magallon25) |
+| :--- | :--- |
+| Mario Adrian Magallon Barajas | [TuUsuario](https://github.com/Magallon25) |
 | Compañero 2 | [Usuario2](https://github.com/) |
