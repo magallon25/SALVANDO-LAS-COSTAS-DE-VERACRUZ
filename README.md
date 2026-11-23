@@ -11,4 +11,4 @@ Breve descripción de qué trata su juego o sistema (2 o 3 líneas).
 | Nombre Completo | Usuario de GitHub |
 | :--- | :--- |
 | Mario Adrian Magallon Barajas | https://github.com/Magallon25 |
-| Compañero 2 | [Usuario2](https://github.com/) |
+| Compañero 2 | https://github.com/rulexr375-oss |
