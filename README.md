@@ -70,3 +70,26 @@ classDiagram
     Jugador ..> Residuo : recolecta
     Jugador ..> Contenedor : deposita en
     Jugador ..> FaunaMarina : rescata
+
+sequenceDiagram
+    actor J as Jugador
+    participant P as Personaje
+    participant R as Residuo
+    participant C as Contenedor
+    participant G as Juego (HUD)
+
+    J->>P: Presiona tecla de acción cerca de basura
+    P->>R: recogerResiduo()
+    R-->>P: Residuo guardado en inventario
+    J->>P: Se desplaza hacia el contenedor y presiona acción
+    P->>C: depositarResiduo(Residuo)
+    C->>C: validarResiduo(tipo)
+    alt Tipo de residuo correcto
+        C-->>P: Clasificación exitosa
+        P->>G: sumarPuntos(valorPuntos)
+        G-->>J: Actualiza marcador en pantalla
+    else Tipo de residuo incorrecto
+        C-->>P: Error de clasificación
+        P->>G: restarTiempoOPuntos()
+        G-->>J: Muestra alerta visual
+    end
