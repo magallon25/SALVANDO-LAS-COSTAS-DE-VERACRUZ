@@ -5,7 +5,7 @@
 Breve descripción de qué trata su juego o sistema (2 o 3 líneas).
 
 ## Diseño de Interfaces
-* [Ver prototipo interactivo en Figma/Canva](Pega_aquí_el_link_de_Figma_o_Canva)
+* [Ver prototipo interactivo en Figma/Canva]((https://www.canva.com/design/DAHb8UhoL2Y/jDgKZCH5wJl0eqmdGp91wA/edit?ui=e30))
 
 ## Integrantes
 | Nombre Completo | Usuario de GitHub |
