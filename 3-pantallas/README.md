@@ -8,7 +8,8 @@ En esta carpeta se encuentran los prototipos de las interfaces gráficas del vid
 4. **4-pausa.png:** Menú superpuesto de pausa con opciones para reanudar, reiniciar o salir.
 5. **5-resultados.png:** Pantalla de resumen al finalizar el nivel con estadísticas de limpieza y puntuación.
 
-<img width="1402" height="768" alt="boceto1" src="https://github.com/user-attachments/assets/24a7a5f7-98ca-4285-80c2-2bac2588f7f3" />
-<img width="1402" height="768" alt="boceto2" src="https://github.com/user-attachments/assets/f3c8f325-278f-4fe9-8554-4881f8501755" />
-<img width="1376" height="768" alt="boceto 5" src="https://github.com/user-attachments/assets/9843daed-2445-4534-8aee-fa165e425dd2" />
-<img width="1376" height="768" alt="boceto 3" src="https://github.com/user-attachments/assets/2bcc5cda-2886-4bc3-8604-557b6793de0c" />
+<img width="1376" height="768" alt="boc2" src="https://github.com/user-attachments/assets/95e4acca-d568-4cb6-8a11-8e41d9190d41" />
+<img width="1376" height="768" alt="bocet3" src="https://github.com/user-attachments/assets/77484fae-f0c7-4e79-ad12-d06cd013d857" />
+<img width="1376" height="768" alt="bic4" src="https://github.com/user-attachments/assets/bfeb0064-0041-4d9f-b5fe-dcab4347519d" />
+<img width="1376" height="768" alt="lasboc" src="https://github.com/user-attachments/assets/da2603e9-f23d-48e2-bc35-bff1e31fadf8" />
+<img width="1376" height="768" alt="boceto" src="https://github.com/user-attachments/assets/10e56831-d3de-4efc-b6aa-5de245b64ee8" />
