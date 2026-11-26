@@ -12,4 +12,4 @@ Puedes explorar el prototipo interactivo completo de nuestras pantallas en el si
 | Nombre Completo | Perfil de GitHub |
 | :--- | :--- |
 | Nombre del Integrante 1 | [magallon25](https://github.com/magallon25) |
-| Nombre del Integrante 2 | [raul4lm31d4][(https://github.com/usuario2](https://github.com/rulexr375-oss)) |
+| Nombre del Integrante 2 | [raul4lm31d4] [(https://github.com/rulexr375-oss) |
