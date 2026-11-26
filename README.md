@@ -5,7 +5,7 @@ Videojuego interactivo enfocado en la concientización ambiental, donde los juga
 ## Diseño de Interfaces
 
 Puedes explorar el prototipo interactivo completo de nuestras pantallas en el siguiente enlace:
-* [Ver diseño en Figma / Canva](PEGA_AQUI_EL_LINK_DE_TU_DISEÑO)
+* [Ver diseño en Figma / Canva]((https://canva.link/29lsbwruv29sks9))
 
 ## Integrantes del Equipo
 
